@@ -2,8 +2,8 @@
 <img width="1322" height="505" alt="image" src="https://github.com/user-attachments/assets/26c25f92-4229-47fc-aacc-24181b022a03" />
 
 🏥 Hospital Management System (FastAPI)
-FastAPI와 MySQL을 활용한 병원 관리 시스템 백엔드 프로젝트입니다. 
-환자, 의사, 예약 및 처방 정보를 체계적으로 관리할 수 있도록 설계되었습니다.
+- FastAPI와 MySQL을 활용한 병원 관리 시스템 백엔드 프로젝트입니다. 
+- 환자, 의사, 예약 및 처방 정보를 체계적으로 관리할 수 있도록 설계되었습니다.
 
 🛠 Tech Stack
 - Framework: FastAPI
