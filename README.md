@@ -1,4 +1,4 @@
-                                          [Backend] FastAPI 기반 병원 관리 시스템 (Mini Project)
+                                    [Backend] FastAPI 기반 병원 관리 시스템 (Mini Project)
 <img width="1322" height="505" alt="image" src="https://github.com/user-attachments/assets/26c25f92-4229-47fc-aacc-24181b022a03" />
 
 🏥 Hospital Management System (FastAPI)
