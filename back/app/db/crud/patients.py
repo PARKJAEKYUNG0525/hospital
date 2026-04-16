@@ -33,7 +33,7 @@ class PatientCrud:
     
     # U 변경
     @staticmethod
-    async def update_patient(db: AsyncSession, patient: Patient, data):
+    async def update_patient(db: AsyncSession, patient: Patient, data:PatientUpdate):
         for key, value in data.dict(exclude_unset=True).items():
             setattr(patient, key, value)
         await db.flush()
